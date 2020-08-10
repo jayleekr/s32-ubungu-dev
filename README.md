@@ -1,1 +1,1 @@
-# s32-ubungu-dev
+# s32-ubuntu-dev
