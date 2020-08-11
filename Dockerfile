@@ -1,7 +1,3 @@
-# Author : Jay Lee
-# E-mail : jaewon.lee@hyundai-autron.com
-# This script only works in Linux Host OS
-
 FROM ubuntu:18.04
 
 RUN sed -i 's/archive.ubuntu.com/ftp.daum.net/g' /etc/apt/sources.list 
